@@ -11,6 +11,10 @@ body {
 	text-align: center;
 }
 
+ul {
+	padding: 15px;
+}
+
 li {
 	padding: 5px 15px;
 	margin: 10px;
@@ -26,15 +30,15 @@ li {
 
 #ordered {
 	float: left;
-	margin-top: 100px;
-	margin-left: 100px;
+	/*margin-top: 100px;
+	margin-left: 100px;*/
 }
 
 #devoured {
 	float: right;
-	margin-top: 100px;
+	/*margin-top: 100px;
 	margin-right: 200px;
-}
+}*/
 
 .create-update-form {
 	padding: 5px;
