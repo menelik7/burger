@@ -20,7 +20,7 @@ p {
 	margin-bottom: 50px;
 }
 
-ul {
+ol {
 	padding: 15px;
 }
 
@@ -42,14 +42,10 @@ li {
 
 #ordered {
 	float: left;
-	/*margin-top: 100px;
-	margin-left: 100px;*/
 }
 
 #devoured {
 	float: right;
-	/*margin-top: 100px;
-	margin-right: 200px;*/
 }
 
 .create-update-form {
