@@ -9,17 +9,29 @@ html {
 body {
 	color: #fff;
 	text-align: center;
+	background: none;
+}
+
+.container {
+	padding: 0 100px 0 100px;
+}
+
+p {
+	margin-bottom: 50px;
 }
 
 ul {
 	padding: 15px;
 }
 
+.whatev {
+	background: #fff;
+	padding-left: 15px;
+}
 li {
 	padding: 5px 15px;
 	margin: 10px;
 	text-align: left;
-	background: #fff;
 	color: black;
 	min-width: 200px;
 }
@@ -37,8 +49,8 @@ li {
 #devoured {
 	float: right;
 	/*margin-top: 100px;
-	margin-right: 200px;
-}*/
+	margin-right: 200px;*/
+}
 
 .create-update-form {
 	padding: 5px;
